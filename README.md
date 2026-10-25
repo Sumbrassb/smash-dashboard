@@ -2,6 +2,7 @@
 
 Streamlit data-storytelling dashboard built from my own tournament results on start.gg
 (player Sumbra, sets since 1 Aug 2023). Project: EFREI #DataStories2026.
+Link:https://sumbrassb-smash-dashboard-app-76iq2b.streamlit.app/
 
 **Question:** am I getting better as a player? **Answer in one line:** my win rate is flat
 (~63% in Paris, Toronto and Paris again), but organizers seed me higher and my fields got bigger.
